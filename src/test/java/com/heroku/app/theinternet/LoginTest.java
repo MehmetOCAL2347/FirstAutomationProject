@@ -16,6 +16,8 @@ public class LoginTest {
         chromeDriver.manage().window().maximize();
         System.out.println("Driver Baslatildi");
         chromeDriver.quit();
+
+        // id=username
     }
 
 }
